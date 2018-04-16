@@ -5,7 +5,7 @@
 ### Installation
 
 * Download the files.
-* Make sure you are in the flaskr/ folder.
+* Make sure you are in the same folder as `setup.py`.
 * Run `pip install`
 * Enter the following commands:
     `export FLASK_APP=flaskr
